@@ -14,9 +14,6 @@ https://wine-quality-prediction-api.herokuapp.com/
 <img src="https://i.imgur.com/vpCeOvF.png" alt="img>"
 
 * Credits - Krish Naik, Stackoverflow, Flask Docs
-<<<<<<< HEAD
-
 * [![GitHub license](https://img.shields.io/github/license/AnuragUnnikannan/Wine_Quality_Prediction)](https://github.com/AnuragUnnikannan/Wine_Quality_Prediction/blob/main/LICENSE)
 =======
 * License - GPL-3.0
->>>>>>> 7d8b0ab4d8cf7cf04eabdaa5c6b254490360d6da
