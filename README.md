@@ -1,4 +1,4 @@
-# Wine Quality Prediction Web-App
+# Wine Quality Prediction Web App
 
 ![Python](https://img.shields.io/badge/Python-3.8.6-yellow) ![Flask](https://img.shields.io/badge/-Flask-brightgreen) ![sci-kit learn](https://img.shields.io/badge/-sci--kit%20learn-orange)
 
