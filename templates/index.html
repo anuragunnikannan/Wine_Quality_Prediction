@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Wine Quality Prediction</title>
+</head>
+<body>
+    <div class="main_area">
+        <h1>Red Wine Quality Prediction</h1>
+        <form action="/predict" method="POST">
+            <input type="text" name="alcohol" placeholder="Alcohol" required="required">
+            <br>
+            <input type="text" name="sulphates" placeholder="Sulphates" required="required">
+            <br>
+            <input type="text" name="acidity" placeholder="Volatile Acidity" required="required">
+            <br>
+            <input type="text" name="citric_acid" placeholder="Citric Acid" required="required">
+            <br>
+            <br>
+            <button type="submit" class="btn">Predict Quality</button>
+        </form>
+        
+        <p id="prediction">
+            {{ prediction_text }}
+        </p>
+        
+    </div>
+</body>
+</html>
