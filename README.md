@@ -10,8 +10,8 @@
 https://wine-quality-prediction-api.herokuapp.com/
 
 * Here is a preview of the web app:
-<img src="https://i.imgur.com/JHOSvIk.png" alt="img">
-<img src="https://i.imgur.com/vpCeOvF.png" alt="img>"
+<img src="https://imgur.com/a/FJVVPem" alt="img">
+<img src="https://imgur.com/a/ulgPgUU" alt="img>"
 
 * Credits - Krish Naik, Stackoverflow, Flask Docs
 * License - GPL-3.0
