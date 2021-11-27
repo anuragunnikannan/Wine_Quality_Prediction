@@ -4,6 +4,13 @@
 
 * This Web App predicts whether a wine is of low, medium or high quality. It takes quantity of alcohol, sulphur, volatile acidity, citric acid as input from the user and predicts the quality.
 
+* To run the app locally. Follow the steps:
+    1. Download the code as ZIP file and extract it.
+    2. Open terminal/command prompt inside the folder.
+    3. Run <code>pip install -r requirements.txt</code>
+    4. Run <code>python app.py</code>
+    5. Put the url in browser
+
 * Notebook file and dataset is present inside static folder for reference.
 
 * To view the deployed model, visit the following link:
