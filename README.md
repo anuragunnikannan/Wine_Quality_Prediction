@@ -14,7 +14,7 @@
 * Notebook file and dataset is present inside static folder for reference.
 
 * To view the deployed model, visit the following link:
-https://wine-quality-prediction-api.herokuapp.com/
+https://anuragunnikannan.pythonanywhere.com
 
 * Here is a preview of the web app:
 <img src="https://i.imgur.com/QDdgCeI.png" alt="img">
